@@ -1,0 +1,39 @@
+.white-bg{background-color:#ffffff;}
+.white-txt{color: #ffffff;}
+.blue-bg{background-color: #08a4bd;}
+.blue-txt{color: #08a4bd;}
+
+#quote-box {
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 200px;
+}
+
+#text{
+    padding: 10px;
+    font-weight: bold;
+}
+
+#new-quote:hover, .social-img:hover{
+    opacity:0.8;
+}
+
+a {
+    text-align: center;
+}
+
+.list-inline {
+    margin-bottom:0;
+}
+
+#quote-box #clicking-elements ul .social-img {
+    width: 50px !important;
+    height: 50px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#clicking-elements {
+    padding: 20px;
+}
